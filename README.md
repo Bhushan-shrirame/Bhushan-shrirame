@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhushan-shrirame
 - 👀 I’m interested in Android Development And Python Programming
 - 🌱 I’m currently learning Android developmet
-- 💞️ I’m looking to collaborate on android development
+- 💞️ I’m looking to collaborate on android development and web development
 - 📫 How to reach me Email bhushanshrirame24@gmail.com
 
 <!---
