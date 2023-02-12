@@ -28,8 +28,10 @@
 <img src="https://user-images.githubusercontent.com/84341752/168604280-e2b697a1-86df-4a28-9797-2875d4bba352.svg" width="40">
 </div>
 
+<div>&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan-shrirame&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhushan-shrirame" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan-shrirame&show_icons=true&locale=en&theme=dark" alt="bhushan-shrirame" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-shrirame&&theme=dark" alt="bhushan-shrirame" /></p>
+</div>
