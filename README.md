@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan-shrirame&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan-shrirame" /> </p>
 
-- 🔭 I’m currently working on **Amazon clone**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Android**
-
+- 🔭 I’m currently working on stackoverflow clone
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on projects related to full stack
+- 💬 Ask me about Node js, React js, Redux, Mongo db
 - 📫 How to reach me **bhushanshrirmae999@gmail.com**
 
 ### Techs and tools I use:
